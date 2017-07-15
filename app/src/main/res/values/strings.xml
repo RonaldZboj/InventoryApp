@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+
+    <!-- No item on the list text -->
+    <string name="no_item">No item found, add a item</string>
+
+    <!-- Hint for item name -->
+    <string name="hint_item_name">Name</string>
+
+    <!-- Hint for item price -->
+    <string name="hint_item_price">Price</string>
+
+    <!-- Hint for item quantity -->
+    <string name="hint_item_quantity">Quantity</string>
+
+    <!-- Hint for item phone -->
+    <string name="hint_item_phone">Phone to supplier</string>
+
+    <!-- Hint for item image -->
+    <string name="hint_item_image">Image</string>
+
+    <!-- Minus button -->
+    <string name="minus_button">-1</string>
+
+    <!-- Plus button -->
+    <string name="plus_button">+1</string>
+
+    <!-- Delete button -->
+    <string name="delete_button">delete</string>
+
+    <!-- Order button -->
+    <string name="order_button">order more</string>
+
+    <!-- Save button -->
+    <string name="save_button">Save product</string>
+
+    <!-- Title for app bar when creating new item -->
+    <string name="editor_title_new_item">Add Item</string>
+
+    <!-- Title for app bar when edit new item -->
+    <string name="editor_title_edit_item">Edit Item</string>
+
+    <!-- Item insertion failed -->
+    <string name="editor_insert_item_failed">Error with insert item</string>
+
+    <!-- Item insertion success -->
+    <string name="editor_insert_item_successful">Item added</string>
+
+    <!-- Item update failed -->
+    <string name="editor_update_item_failed">Error with update item</string>
+
+    <!-- Item update success -->
+    <string name="editor_update_item_successful">Item updated</string>
+
+    <!-- Item delete failed -->
+    <string name="editor_delete_item_failed">Error with delete item</string>
+
+    <!-- Item delete success -->
+    <string name="editor_delete_item_successful">Item deleted</string>
+
+    <!-- Sale button -->
+    <string name="sale_button">sale</string>
+
+    <!-- Add image button -->
+    <string name="add_image_button">Add Image</string>
+
+    <!-- Massage when unsaved change in editor activity -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Discard changes -->
+    <string name="discard">Discard</string>
+
+    <!-- Keep editing -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Massage when user try to delete items -->
+    <string name="delete_dialog_msg">Are you sure?</string>
+
+    <!-- Delete -->
+    <string name="delete">Delete</string>
+
+    <!-- Cancel -->
+    <string name="cancel">Cancel</string>
+
+
+</resources>
